@@ -17,11 +17,3 @@ Currently ADFM (Version 0.1) can automatically manage the following file types :
 1 . Specify the file path (e.g. C:/users/.../Downloads), **WARNING: make sure to not add a forward slash ('/') at the end as the program does this anyway.**
 
 Folders will automatically be created and files will be sorted by file type
-
-Here is an example of what you should expect after the cleaning process takes place :
-
-** Before **
-![Before cleanse](C:/Users/Rizwan/Pictures/Screenshots/before.png)
-
-** After ** 
-![after cleanse](C:/Users/Rizwan/Pictures/Screenshots/after.png)
