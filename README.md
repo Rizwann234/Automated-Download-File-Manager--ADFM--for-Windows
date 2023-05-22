@@ -19,3 +19,9 @@ Currently ADFM (Version 0.1) can automatically manage the following file types :
 Folders will automatically be created and files will be sorted by file type
 
 Here is an example of what you should expect after the cleaning process takes place :
+
+** Before **
+![Before cleanse](C:/Users/Rizwan/Pictures/Screenshots/before)
+
+** After ** 
+![after cleanse](C:/Users/Rizwan/Pictures/Screenshots/after)
