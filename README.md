@@ -21,7 +21,7 @@ Folders will automatically be created and files will be sorted by file type
 Here is an example of what you should expect after the cleaning process takes place :
 
 ** Before **
-![Before cleanse](C:/Users/Rizwan/Pictures/Screenshots/before)
+![Before cleanse](C:/Users/Rizwan/Pictures/Screenshots/before.png)
 
 ** After ** 
-![after cleanse](C:/Users/Rizwan/Pictures/Screenshots/after)
+![after cleanse](C:/Users/Rizwan/Pictures/Screenshots/after.png)
