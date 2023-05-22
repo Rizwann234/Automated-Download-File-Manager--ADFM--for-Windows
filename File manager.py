@@ -19,9 +19,12 @@ def main() :
 
     # Automating the process of making folders
     folders = ['Word Documents', 'PDFs', 'zip', 'Spreadsheets', 'Installers']
-        
+
     for folder in folders :
-        os.mkdir(f"{downloads_directory}/{folder}")
+        try:
+            os.mkdir(f"{downloads_directory}/{folder}")
+        except FileExistsError:
+            break
 
     # File sorting code using os and shutil
 
